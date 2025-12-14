@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <h2></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-kumar2828&label=Profile%20views&color=0e75b6&style=flat" alt="yash-kumar2828" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabihanaaz28&label=Profile%20views&color=0e75b6&style=flat" alt="sabihanaaz28" /> </p>
 <b>About Me ........</b>
 <p>👋 Hi, I'm Sabiha Naaz🎓 BCA 3rd Year Student 💻 Aspiring Web Developer
 🚀 Passionate about building projects, problem-solving, and improving my coding skills
@@ -23,4 +23,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-kumar2828&" alt="yash-kumar2828" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabihanaaz28&" alt="sabihanaaz28" /></p>
