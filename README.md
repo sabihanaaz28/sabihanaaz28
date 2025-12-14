@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning *React JS, Node JS, Express JS etc*
 
-- 📫 How to reach me *sabihanaaz186@gmail.com*
+- 📫 How to reach me *sabihanaaz182@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
