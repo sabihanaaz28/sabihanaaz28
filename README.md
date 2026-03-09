@@ -9,7 +9,7 @@
 🚀 Passionate about building projects, problem-solving, and improving my coding skills
 📚 I enjoy learning new technologies and working on real-world applications</p>
 
-- 🌱 I’m currently learning *React JS, Node JS, Express JS etc*
+- 🌱 I’m currently learning *Java, Python*
 
 - 📫 How to reach me *sabihanaaz182@gmail.com*
 
