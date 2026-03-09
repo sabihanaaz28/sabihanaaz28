@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sabiha Naaz</h1>
     <p align="center"><img align="center" alt="coding" width="400" src="https://camo.githubusercontent.com/396deae72bcb2ee884a7bda8fd8fe783e67870b17697b2a9496a032a0f191985/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966"></p>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software Engineer from India</h3>
 <h2></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabihanaaz28&label=Profile%20views&color=0e75b6&style=flat" alt="sabihanaaz28" /> </p>
 <b>About Me ........</b>
-<p>👋 Hi, I'm Sabiha Naaz🎓 BCA 3rd Year Student 💻 Aspiring Web Developer
+<p>👋 Hi, I'm Sabiha Naaz🎓 BCA 3rd Year Student 💻 Aspiring Software Engineer 
 🚀 Passionate about building projects, problem-solving, and improving my coding skills
 📚 I enjoy learning new technologies and working on real-world applications</p>
 
